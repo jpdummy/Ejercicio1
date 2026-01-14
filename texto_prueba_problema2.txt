@@ -1,0 +1,7 @@
+La programación en Python es muy útil para trabajar con datos y Big Data. 
+En el ámbito de la inteligencia artificial, los modelos de lenguaje aprenden patrones 
+de textos extensos. Además, la Programación estadística ayuda a preparar datos. 
+Al hablar de modelos, a veces distinguimos entre modelos supervisados y no supervisados. 
+El lenguaje natural (NLP) es una rama importante de la inteligencia artificial. 
+También se emplean técnicas de preprocesamiento: eliminar signos de puntuación, 
+normalizar el LENGUAJE a minúsculas, y filtrar palabras vacías. 
